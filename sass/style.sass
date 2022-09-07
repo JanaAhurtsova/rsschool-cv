@@ -1,6 +1,9 @@
 $main-color: #000000
 $second-color: #FFFFFF
 
+a:link, a:visited
+    color: $main-color
+
 body
     display: block
     box-sizing: border-box
@@ -21,7 +24,6 @@ nav
     list-style-type: none
     text-transform: capitalize
     &_link
-        color: $main-color
         font-size: 18px
         font-weight: 300px
         transition: .3s
@@ -98,6 +100,8 @@ h1
     color: $main-color
     text-transform: capitalize
     font-weight: bold
+pre
+    width: 100%
 
 .line
     margin-top: 17px
@@ -111,8 +115,13 @@ h1
 
 .skills, 
 .education, 
-.languages
+.languages,
+.projects
     margin-left: -11px
+
+.projects a
+    text-transform: capitalize
+    text-decoration: none
 
 code
     display: block

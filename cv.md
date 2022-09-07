@@ -11,7 +11,7 @@
 
 ***
 
-## **About Myself:**
+## **Summary:**
 I’d describe myself as a goal-oriented, self-motivated and hardworking person with good organizational skills and strategic thinking. 
 In my previous jobs that were not related to front-end development I've developed a number of important skills, including decision-making, problem-solving skills and multitasking.
 Now I'm ready to continue developing, studying something new and improving my skills.
@@ -28,13 +28,13 @@ Now I'm ready to continue developing, studying something new and improving my sk
 ***
 
 ## **Code Examples:**
-_Call the ***processArg*** function with an argument of ***7*** and assign its return value to the valiable ***processed***_
+_Call the ***processArg*** function with an argument of ***7*** and assign its return value to the variable ***processed***_
 ```
 let processed = 0;
 function processArg(num) {
   return (num + 3) / 5;
 }
-processed = pocessArg(7);
+processed = processArg(7);
 ```
 ***
 
@@ -47,7 +47,7 @@ processed = pocessArg(7);
 
 ***
 
-## **Work experience:**
+## **Projects:**
 * [Travel](https://rolling-scopes-school.github.io/janaahurtsova-JSFEPRESCHOOL2022Q2/travel/)
 * [Momentum](https://rolling-scopes-school.github.io/janaahurtsova-JSFEPRESCHOOL2022Q2/Momentum/)
 * [Eldritch-Horror](https://rolling-scopes-school.github.io/janaahurtsova-JSFEPRESCHOOL2022Q2/eldritch-codejam/)
